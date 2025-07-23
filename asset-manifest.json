@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/aml-site/static/css/main.f855e6bc.css",
-    "main.js": "/aml-site/static/js/main.4e2bd051.js",
+    "main.css": "/aml-site/static/css/main.e6c13ad2.css",
+    "main.js": "/aml-site/static/js/main.25ac1a12.js",
     "static/js/453.ad9f13f3.chunk.js": "/aml-site/static/js/453.ad9f13f3.chunk.js",
-    "static/media/logo.svg": "/aml-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/aml-site/index.html",
-    "main.f855e6bc.css.map": "/aml-site/static/css/main.f855e6bc.css.map",
-    "main.4e2bd051.js.map": "/aml-site/static/js/main.4e2bd051.js.map",
+    "main.e6c13ad2.css.map": "/aml-site/static/css/main.e6c13ad2.css.map",
+    "main.25ac1a12.js.map": "/aml-site/static/js/main.25ac1a12.js.map",
     "453.ad9f13f3.chunk.js.map": "/aml-site/static/js/453.ad9f13f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.4e2bd051.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.25ac1a12.js"
   ]
 }
